@@ -16,7 +16,7 @@ http://rec2.distv.net/daniele/12345/69
 http://rec2.distv.net/daniele/12345/230
 #EXTINF:-1 tvg-logo="https://n9.cl/w3mj" group-title="Canais | Abertos",Band SP | TvTech
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Entretenimento",Rede Vida | TvTech
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Vida | TvTech
 http://rec2.distv.net/daniele/12345/200
 
 - Entretenimento -
@@ -128,3 +128,76 @@ http://rec2.distv.net/daniele/12345/188
 http://rec2.distv.net/daniele/12345/189
 #EXTINF:-1 tvg-logo="http://127.0.0.1:51147/distv.net/icons/sportv3.png" group-title="Canais | Esportes",SporteTV3 | TvTech
 http://rec2.distv.net/daniele/12345/190
+
+- Filmes e Séries
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/ae.png" group-title="Canais | Filmes & Series",A&E | TvTech
+http://rec2.distv.net/daniele/12345/113
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/amc.png" group-title="Canais | Filmes & Series",AMC | TvTech
+http://rec2.distv.net/daniele/12345/223
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/axn.png" group-title="Canais | Filmes & Series",ANX | TvTech
+http://rec2.distv.net/daniele/12345/116
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/sony.png" group-title="Canais | Filmes & Series",Canal Sony | TvTech
+http://rec2.distv.net/daniele/12345/123
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/cinemax.png" group-title="Canais | Filmes & Series",Cinemax | TvTech
+http://rec2.distv.net/daniele/12345/125
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/comedycentral.png" group-title="Canais | Filmes & Series",Comedy Central | TvTech
+http://rec2.distv.net/daniele/12345/127
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/foxchannel.png" group-title="Canais | Filmes & Series",Fox | TvTech
+http://rec2.distv.net/daniele/12345/148
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/foxlife.png" group-title="Canais | Filmes & Series",Fox Life | TvTech
+http://rec2.distv.net/daniele/12345/149
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/foxpremium1.png" group-title="Canais | Filmes & Series",Fox Premium | TvTech
+http://rec2.distv.net/daniele/12345/150
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/foxpremium2.png" group-title="Canais | Filmes & Series",Fox Premium 2 | TvTech
+http://rec2.distv.net/daniele/12345/151
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hbo.png" group-title="Canais | Filmes & Series",HBO | TvTech
+http://rec2.distv.net/daniele/12345/156
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hbo2.png" group-title="Canais | Filmes & Series",HBO2 | TvTech
+http://rec2.distv.net/daniele/12345/157
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hbofamily.png" group-title="Canais | Filmes & Series",HBO Family | TvTech
+http://rec2.distv.net/daniele/12345/158
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hbomundi.png" group-title="Canais | Filmes & Series",HBO Mundi | TvTech
+http://rec2.distv.net/daniele/12345/159
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hboplus.png" group-title="Canais | Filmes & Series",HBO Plus | TvTech
+http://rec2.distv.net/daniele/12345/160
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hbopop.png" group-title="Canais | Filmes & Series",HBO POP | TvTech
+http://rec2.distv.net/daniele/12345/161
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hbosignature.png" group-title="Canais | Filmes & Series",HBO Signature | TvTech
+http://rec2.distv.net/daniele/12345/162
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/hboextreme.png" group-title="Canais | Filmes & Series",HBO Extreme | TvTech
+http://rec2.distv.net/daniele/12345/163
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/megapix.png" group-title="Canais | Filmes & Series",Megapix | TvTech
+http://rec2.distv.net/daniele/12345/168
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/paramount.png" group-title="Canais | Filmes & Series",Paramount | TvTech
+http://rec2.distv.net/daniele/12345/178
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/space.png" group-title="Canais | Filmes & Series",Space | TvTech
+http://rec2.distv.net/daniele/12345/187
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/studiouniversal.png" group-title="Canais | Filmes & Series",Studio Universal | TvTech
+http://rec2.distv.net/daniele/12345/191
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/syfy.png" group-title="Canais | Filmes & Series",SYFY | TvTech
+http://rec2.distv.net/daniele/12345/192
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tbs.png" group-title="Canais | Filmes & Series",TBS | TvTech
+http://rec2.distv.net/daniele/12345/193
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tcaction.png" group-title="Canais | Filmes & Series",Telecine Action | TvTech
+http://rec2.distv.net/daniele/12345/194
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tccult.png" group-title="Canais | Filmes & Series",Telecine Cult | TvTech
+http://rec2.distv.net/daniele/12345/195
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tcfun.png" group-title="Canais | Filmes & Series",Telecine Fun | TvTech
+http://rec2.distv.net/daniele/12345/196
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tcpipoca.png" group-title="Canais | Filmes & Series",Telecine Pipoca | TvTech
+http://rec2.distv.net/daniele/12345/197
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tcpremium.png" group-title="Canais | Filmes & Series",Telecine Premium | TvTech
+http://rec2.distv.net/daniele/12345/198
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tctouch.png" group-title="Canais | Filmes & Series",Telecone Touch | TvTech
+http://rec2.distv.net/daniele/12345/199
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tnt.png" group-title="Canais | Filmes & Series",TNT | TvTech
+http://rec2.distv.net/daniele/12345/201
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/tntseries.png" group-title="Canais | Filmes & Series",TNT Series | TvTech
+http://rec2.distv.net/daniele/12345/202
+#EXTINF:-1 tvg-logo="http://127.0.0.1:54744/distv.net/icons/universalchannel.png" group-title="Canais | Filmes & Series",Universal TV | TvTech
+http://rec2.distv.net/daniele/12345/205
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes & Series",Warner Channel | TvTech+
+http://rec2.distv.net/daniele/12345/208
+
+- Acervo de Filmes
