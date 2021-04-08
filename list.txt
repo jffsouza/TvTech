@@ -7,5 +7,5 @@ http://rec2.distv.net/daniele/12345/231
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-logo="https://n9.cl/w3mj" group-title="Canais | Abertos",Band SP | TvTech
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1:61763/s/i.imgur.com/YvFvURx.png" group-title="Canais | Entretenimento",Food Network | TvTech
-http://127.0.0.1:62083/output.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1:61763/distv.net/icons/foodnetwork.png" group-title="Canais | Entretenimento",Food Network | TvTech
+http://rec2.distv.net/daniele/12345/147
