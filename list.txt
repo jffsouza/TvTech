@@ -200,12 +200,8 @@ http://rec2.distv.net/daniele/12345/205
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes & Series",Warner Channel | TvTech+
 http://rec2.distv.net/daniele/12345/208
 
-- Acervo de Filmes
-#EXTINF:-1 tvg-logo="" group-title="Acervo | Filmes Infantis",Carros | TvTech+
-http://192.99.18.120/FILMES%20INFANTIL/Carros.mp4
-#EXTINF:-1 tvg-logo="" group-title="Acervo | Filmes Infantis",Carros 2| TvTech+
-http://192.99.18.120/FILMES%20INFANTIL/Carros%202.mp4
-#EXTINF:-1 tvg-logo="" group-title="Acervo | Filmes Infantis",Carros 3 | TvTech+
-http://192.99.18.120/FILMES%20INFANTIL/Carros%203.mp4
-#EXTINF:-1 tvg-logo="" group-title="Acervo | Filmes Infantis",UP Altas Aventuras | TvTech+
-http://192.99.18.120/FILMES%20INFANTIL/UP%20Altas%20Aventuras.mp4
+- Acervo de Series
+#PLAYLISTV: pltv-name="DidiAbreu_TheBigBangTheory" pltv-description="The BigBang Theory"  pltv-author="" pltv-email=""
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", << Season #1 >>
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E01 - Piloto
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36592.mp4
