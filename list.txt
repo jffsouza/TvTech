@@ -201,6 +201,42 @@ http://rec2.distv.net/daniele/12345/205
 http://rec2.distv.net/daniele/12345/208
 
 - Acervo de Series
+
+-- THE BIG BANG 
 #EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", << Season #1 >>
 #EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E01 - Piloto
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36586.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E02 - A Hipótese de Farelo Grande
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36587.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E03 - O Corolário de Botas Difusa
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36588.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E04 - O Efeito do Peixe Luminoso
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/365.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E05 - O Hambúrguer Postulado
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36589.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E06 - O Paradigma da Terra Média
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36590.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E07 - O Paradóxo Dumpling
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36591.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E08 - O Experimento do Gafanhoto
 http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36592.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E09 - A Polarização Cooper-Hofstadter
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36593.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E10 - A Decadência Loobenfeld
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36594.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E11 - A Anomalia Massa de Panqueca
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36595.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E12 - A Dualidade Jerusalém
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36596.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E13 - A Conjetura da Jarra do Morcego
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36597.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E14 - A Aniquilação Nerdvana
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36598.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E15 - A Indeterminação da Costeleta de Porco
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36599.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E16 - A Reação da Amendoim
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36600.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E17 - O Fator Tangerina
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36601.mp4
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01ESP - Especial (LEG)
+http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36602.mp4
