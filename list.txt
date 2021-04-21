@@ -203,7 +203,7 @@ http://rec2.distv.net/daniele/12345/208
 - Acervo de Series
 
 -- THE BIG BANG 
-#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", << Season #1 >>
+#EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", << 1 - Temporada >>
 #EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E01 - Piloto
 http://n.srv1.xyz:8880/series/rogerrocha/estherlorena/36586.mp4
 #EXTINF:-1 tvg-logo="http://superserieshd.com/img/poster/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="TBBT_S1", S01E02 - A Hipótese de Farelo Grande
